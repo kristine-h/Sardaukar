@@ -9,6 +9,5 @@ g++ test.cpp loader.cpp -lbfd -o test
 
 ./test <binary file>
 
-Resources:
-  
+Resources: 
 Practical Binary Analysis, Dennis Andriesse
