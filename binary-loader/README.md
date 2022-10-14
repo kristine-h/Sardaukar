@@ -4,6 +4,7 @@ The program displays some basic information about the binary such as the filenam
 
 Example usage:
 g++ test.cpp loader.cpp -lbfd -o test
+
 ./test <binary file>
 
 Resources:
